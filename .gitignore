@@ -1,0 +1,11 @@
+course_5_RNN/readonly/Triggerword Detection/XY_train/X.npy
+course_5_RNN/readonly/Triggerword Detection/XY_dev/X_dev.npy
+course_5_RNN/readonly/glove.6B.50d.txt
+course_5_RNN/Week 2/Word Vector Representation/data/glove.6B.50d.txt
+course_5_RNN/Week 2/Emojify/data/glove.6B.50d.txt
+course_5_RNN/Week 3/Trigger word detection/XY_train/X.npy
+course_5_RNN/Week 3/Trigger word detection/XY_dev/X_dev.npy
+course_4_CNN/week2/ResNets/ResNet50.h5
+course_4_CNN/week4/Neural Style Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+course_4_CNN/week3/Car detection for Autonomous Driving/model_data/yolo.h5
+
